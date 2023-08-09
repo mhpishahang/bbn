@@ -1,0 +1,9 @@
+jupyterlab
+numba
+jax
+jax[cpu]
+pgmax
+numpy
+pandas
+scipy
+matplotlib
